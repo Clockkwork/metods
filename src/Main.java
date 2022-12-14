@@ -90,7 +90,7 @@ public class Main {
     public static void task3(){
         System.out.println("Задание №3");
         distanceDelivery();
-    }
+    }  
 }
 
 
